@@ -1,0 +1,20 @@
+{
+  "name": "tour-api",
+  "version": "1.0.0",
+  "description": "a tour api ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "tour-api",
+    "api",
+    "tour"
+  ],
+  "author": "Mohd Kaif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
