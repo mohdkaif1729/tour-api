@@ -48,7 +48,7 @@ app.get("/", (req, res) => {
   );
 });
 
-app.get("/tour-api", (req, res) => {
+app.get("/api/tour-api", (req, res) => {
   res.json(tourApi);
 });
 
